@@ -1,9 +1,9 @@
 /*
   Plugin name:      Octivated
-  Author:           Zubair Hasan Zubo
-  Contact Author:   https://fb.me/obuxim
-  Company:          Duoneos
-  Contact Company:  https://duoneos.com
+  Author:           Zubair Hasan
+  Contact Author:   hello@zubairhasan.com
+  Company:          Kodevite
+  Contact Company:  https://kodevite.com
 */
 
 
